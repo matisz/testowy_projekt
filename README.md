@@ -2,3 +2,5 @@
 
 
 Dodanie nowej linijki
+
+Dopisuje linijke w Gitlab
